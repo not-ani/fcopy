@@ -3,7 +3,7 @@
 **fcopy** is the quickest way to copy the content of files and folders into your clipboard. 
 
 
-[![Screenshot 2025-02-27 at 6 50 14 PM](https://github.com/user-attachments/assets/f256acdb-7ffa-401f-a2b4-417d9ea8d440)](https://github.com/user-attachments/assets/ba45ee7d-1853-4476-9470-a0d648a6833)
+[![Watch the demo on YouTube](https://img.youtube.com/vi/OPHR5kiFDYI/0.jpg)](https://youtu.be/OPHR5kiFDYI)
 
 ## Features
 
