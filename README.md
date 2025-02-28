@@ -1,6 +1,9 @@
 # fcopy
 
-**fcopy** is a fast and flexible file processing tool written in Go. It is designed for efficiently finding, processing, and extracting file content from both files and directories. By combining fuzzy searching, concurrency, and customizable configurations, **fcopy** is especially useful when preparing large codebases or document collections for further processing, such as feeding into large language models (LLMs) for analysis or summarization.
+**fcopy** is the quickest way to copy the content of files and folders into your clipboard. 
+
+
+[![Screenshot 2025-02-27 at 6 50 14 PM](https://github.com/user-attachments/assets/f256acdb-7ffa-401f-a2b4-417d9ea8d440)](https://github.com/user-attachments/assets/ba45ee7d-1853-4476-9470-a0d648a6833)
 
 ## Features
 
