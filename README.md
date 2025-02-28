@@ -57,14 +57,16 @@ Large Language Models rely on high-quality, curated input data. **fcopy** simpli
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fcopy.git
+   git clone https://github.com/not-ani/fcopy.git
    cd fcopy
    ```
 
-2. **Build the project:**
+2. **Install the cli:**
 
    ```bash
-   go build ./...
+   cd cmd/fcopy
+   go build -o fcopy
+   go install
    ```
 
 ### Usage
